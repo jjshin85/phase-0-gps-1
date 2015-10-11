@@ -4,7 +4,7 @@
 > Lincoln
 ` Apple `
 [Our Link!](http://daringfireball.net/projects/markdown/syntax)
-![Our picture](usworking.png)
+![Our picture](UsWorking.png)
 
 This is our screenshot.    Hope you like it!
 
