@@ -1,7 +1,9 @@
 #Our Favorite Presidents
 *This is italic*
 **This will be bold**
-> Washington and Carter
+
+> Lincoln
+
 ` Apple `
 [Our Link!](http://daringfireball.net/projects/markdown/syntax)
 ![Our picture](UsWorking.png)
